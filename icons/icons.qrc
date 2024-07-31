@@ -1,0 +1,11 @@
+<RCC>
+  <qresource prefix="icons">
+    <file>fast_forward_FILL0_wght400_GRAD0_opsz24.svg</file>
+    <file>fast_rewind_FILL0_wght400_GRAD0_opsz24.svg</file>
+    <file>pause_FILL0_wght400_GRAD0_opsz24.svg</file>
+    <file>play_circle_FILL0_wght400_GRAD0_opsz24.svg</file>
+    <file>playlist_add_FILL0_wght400_GRAD0_opsz24.svg</file>
+    <file>volume_down_alt_FILL0_wght400_GRAD0_opsz24.svg</file>
+    <file>volume_up_FILL0_wght400_GRAD0_opsz24.svg</file>
+  </qresource>
+</RCC>
